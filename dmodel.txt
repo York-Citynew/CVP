@@ -1,0 +1,7 @@
+Epoch: 1  Train Loss: 0.8715  Val Loss: 0.81
+Epoch: 2  Train Loss: 0.8  Val Loss: 0.6607
+Epoch: 3  Train Loss: 0.7491  Val Loss: 0.6729
+Epoch: 4  Train Loss: 0.7237  Val Loss: 0.7174
+Epoch: 5  Train Loss: 0.6994  Val Loss: 0.7244
+
+Mean IoU on test set: 0.1945 over 8 images.
